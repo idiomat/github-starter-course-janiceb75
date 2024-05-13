@@ -17,7 +17,8 @@
 * Making Commits, pushing and pulling on a basic level
   *   I currently use Github at work and have had to perform these actions a few times during pairing sessions. I am comfortable with what these commands are, but sometimes, may need to Google the exact command. I know that if I want to push the changes
       that I made in my code to the main branch, I would push the code. Piror to doing that I would need to stage the file via a "git add ." and then add my comments via a  "commit -m"
-  *   If I want to make sure I have the latest updates on the remote branch I would perform a "git pull" 
+  *   If I want to make sure I have the latest updates on the remote branch I would perform a "git pull"
+  *   I need more clairity and work with forks as well.
 
 
 
